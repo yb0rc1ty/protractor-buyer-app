@@ -1,10 +1,10 @@
 {
-	"appname": "protractor buyer app",
+	"appname": "protractor-buyer-app",
 	"scope": "FullAccess",
 	"clientid": "B0DEBF7D-EB31-4C38-97A3-1F83B75C85CE",
 	"buyerid": "protractor_buyer",
 	"environment": "prod",
-	"anonymous": true,
+	"anonymous": false,
 	"base": {
 		"left": true,
 		"right": false,
